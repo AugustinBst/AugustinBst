@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,60:0d1117,100:111827&height=220&section=header&text=Augustin%20Bost&fontSize=72&fontColor=00FF87&fontAlignY=55&desc=Software%20Engineer%20%E2%80%94%20Systems%20%C3%97%20Full-Stack%20%C3%97%20Founder&descSize=16&descAlignY=78&descAlign=50&animation=fadeIn&fontAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00FF87&center=true&vCenter=true&width=720&lines=Telecom+%E2%86%92+HealthTech+%E2%86%92+Startup.+3+industries.+0+failures.;Backend+Engineer+%40+Fynex+%7C+Fintech+MVP+shipping+in+30+days;Epitech+%7C+C%2FC%2B%2B+%C3%97+TypeScript+%7C+Rennes+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00FF87&center=true&vCenter=true&width=720&lines=Telecom+%E2%86%92+HealthTech+%E2%86%92+Startup.+3+industries.+3+internships.;Backend+Engineer+%40+Fynex+%7C+Fintech+MVP+shipping+in+30+days;Epitech+%7C+C%2FC%2B%2B+%C3%97+TypeScript+%7C+Rennes+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
