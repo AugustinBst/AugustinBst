@@ -141,13 +141,9 @@ Full e-commerce store — designed, built and currently live.
 
 ## Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=augustinbst&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF87&icon_color=00FF87&text_color=94a3b8&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinbst&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF87&text_color=94a3b8&langs_count=6"/>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustinbst&hide_border=true&background=0d1117&ring=00FF87&fire=00FF87&currStreakLabel=00FF87&sideLabels=94a3b8&dates=94a3b8&sideNums=e2e8f0"/>
+  <img src="https://streak-stats.demolab.com?user=augustinbst&hide_border=true&background=0d1117&ring=00FF87&fire=00FF87&currStreakLabel=00FF87&sideLabels=94a3b8&dates=94a3b8&sideNums=e2e8f0"/>
 </div>
 
 ---
