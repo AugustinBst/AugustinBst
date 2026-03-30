@@ -143,7 +143,7 @@ Full e-commerce store — designed, built and currently live.
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=augustinbst&hide_border=true&background=0d1117&ring=00FF87&fire=00FF87&currStreakLabel=00FF87&sideLabels=94a3b8&dates=94a3b8&sideNums=e2e8f0"/>
+  <img src="https://streak-stats.demolab.com?user=augustinbst&hide_border=true&background=0d1117&ring=00FF87&fire=00FF87&currStreakLabel=00FF87&currStreakNum=ffffff&sideLabels=94a3b8&dates=94a3b8&sideNums=ffffff"/>
 </div>
 
 ---
